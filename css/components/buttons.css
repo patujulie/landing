@@ -1,0 +1,16 @@
+.btn-apply {
+  text-decoration: none;
+  background-color: #5FC263;
+  padding: 10px 10px;
+  border-radius: 3px;
+  color: white;
+  opacity: 0.8;
+  transition: opacity ease 0.7s;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+}
+.btn-apply:hover {
+  opacity: 1;
+}
+}
